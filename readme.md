@@ -1,6 +1,6 @@
 ## Medium Clone
 
-MediumClone is a clone of [Medium](https://medium.com) with simple features. It was created as the test project for The Mindvalley Using [Laravel](https://laravel.com) and [Vuejs](https://vuejs.org).
+MediumClone is a clone of [Medium](https://medium.com) with simple features. It was created as the test project for The Mindvalley using [Laravel](https://laravel.com) and [Vuejs](https://vuejs.org).
 
 ### [Live Demo](https://mc.amirr.net)
 
@@ -16,14 +16,14 @@ MediumClone is a clone of [Medium](https://medium.com) with simple features. It 
   - Testing
   - Seeding using faker
 
-### How To
+### How To Install
 
-Pull Repository to your invorment
+Pull repository to your invorment ``` https://github.com/amirehman/medium-clone.git ```
 
-Install Composser and run this command
+Install composser and run this command
 ```  $ Composer install ```
 
-Install Node.js and Run npm install
+Install Node.js and run npm install
 ``` $ npm install ```
 
 Create database and update you ` .env ` file with database username and password
