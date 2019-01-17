@@ -16,7 +16,7 @@ MediumClone is a clone of [Medium](https://medium.com) with simple features. It 
 
 ### How To Install
 
-Pull repository to your invorment ``` https://github.com/amirehman/medium-clone.git ```
+Pull repository to your invorment ``` git pull https://github.com/amirehman/medium-clone.git ```
 
 Install composser and run this command
 ```  $ Composer install ```
