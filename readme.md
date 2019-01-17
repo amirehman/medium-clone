@@ -27,6 +27,14 @@ Install Node.js and run npm install
 ``` $ npm install ```
 
 Create database and update you ` .env ` file with database username and password
+
+Generate new key for your project
+```$ php artisan key:generate ```
+
+Clear Cache after chnages in `.env` file
+```$ php artisan config:cache ```
+
 After this run this for seeding data to database.
 ```$ php artisan db:see ```
 
+And you are good to go! :)
