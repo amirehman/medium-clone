@@ -32,6 +32,9 @@ Generate new key for your project
 Clear Cache after chnages in `.env` file
 ```$ php artisan config:cache ```
 
+Migrate all your tables to database
+```$ php artisan migrate ```
+
 After this run this for seeding data to database.
 ```$ php artisan db:see ```
 
